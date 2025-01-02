@@ -23,7 +23,7 @@
 </p>
 
 <div align="center">
-  <img src="" alt="">
+  <img src="https://github.com/NURSENAKTAS/ip-2/blob/main/public/assets/img/animate.gif" alt="site_animate">
 </div>
 
 
