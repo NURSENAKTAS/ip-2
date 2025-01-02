@@ -14,10 +14,12 @@ class ForumModeratorsSeeder extends Seeder
      */
     public function run(): void
     {
-        $json = Storage::get("Seeders/forum_moderators.json");
-        $ForumModerators= json_decode($json,true);
+        $jsonPath = database_path('data/forum_moderators.json');
+        $prioritiesJson = file_get_contents($jsonPath);
+        // JSON verisini çözümleyin, diziler olarak almak için ikinci parametreyi true yapın
+        $decodedData = json_decode($prioritiesJson,true);
 
         // Veriyi pivot tablosuna ekleme (role_forum tablosu)
-        DB::table('forum_moderators')->insert($ForumModerators);
+        DB::table('forum_moderators')->insert($decodedData);
     }
 }

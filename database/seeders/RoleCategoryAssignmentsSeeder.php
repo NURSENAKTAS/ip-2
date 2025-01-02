@@ -14,10 +14,12 @@ class RoleCategoryAssignmentsSeeder extends Seeder
      */
     public function run(): void
     {
-        $json = Storage::get("Seeders/role_category_assignments.json");
-        $RoleCategoryAssignments = json_decode($json,true);
+        $jsonPath = database_path('data/role_category_assignments.json');
+        $prioritiesJson = file_get_contents($jsonPath);
+        // JSON verisini çözümleyin, diziler olarak almak için ikinci parametreyi true yapın
+        $decodedData = json_decode($prioritiesJson,true);
 
         // Veriyi pivot tablosuna ekleme (role_forum tablosu)
-        DB::table('role_category_assignments')->insert($RoleCategoryAssignments);
+        DB::table('role_category_assignments')->insert($decodedData);
     }
 }

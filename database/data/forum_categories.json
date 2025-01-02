@@ -1,0 +1,203 @@
+[
+    {
+        "forum_id": 1,
+        "category_id": 1
+    },
+    {
+        "forum_id": 2,
+        "category_id": 1
+    },
+    {
+        "forum_id": 3,
+        "category_id": 1
+    },
+    {
+        "forum_id": 4,
+        "category_id": 1
+    },
+    {
+        "forum_id": 5,
+        "category_id": 1
+    },
+    {
+        "forum_id": 6,
+        "category_id": 2
+    },
+    {
+        "forum_id": 7,
+        "category_id":2
+    },
+    {
+        "forum_id": 8,
+        "category_id": 2
+    },
+    {
+        "forum_id": 9,
+        "category_id": 2
+    },
+    {
+        "forum_id": 10,
+        "category_id": 2
+    },
+    {
+        "forum_id": 11,
+        "category_id": 3
+    },
+    {
+        "forum_id": 12,
+        "category_id": 3
+    },
+    {
+        "forum_id": 13,
+        "category_id": 3
+    },
+    {
+        "forum_id": 14,
+        "category_id": 3
+    },
+    {
+        "forum_id": 15,
+        "category_id": 3
+    },
+    {
+        "forum_id": 16,
+        "category_id": 4
+    },
+    {
+        "forum_id": 17,
+        "category_id": 4
+    },
+    {
+        "forum_id": 18,
+        "category_id": 4
+    },
+    {
+        "forum_id": 19,
+        "category_id": 4
+    },
+    {
+        "forum_id": 20,
+        "category_id": 4
+    },
+    {
+        "forum_id": 21,
+        "category_id": 5
+    },
+    {
+        "forum_id": 22,
+        "category_id": 5
+    },
+    {
+        "forum_id": 23,
+        "category_id": 5
+    },
+    {
+        "forum_id": 24,
+        "category_id": 5
+    },
+    {
+        "forum_id": 25,
+        "category_id": 5
+    },
+    {
+        "forum_id": 26,
+        "category_id": 6
+    },
+    {
+        "forum_id": 27,
+        "category_id": 6
+    },
+    {
+        "forum_id": 28,
+        "category_id": 6
+    },
+    {
+        "forum_id": 29,
+        "category_id": 6
+    },
+    {
+        "forum_id": 30,
+        "category_id": 6
+    },
+    {
+        "forum_id": 31,
+        "category_id": 7
+    },
+    {
+        "forum_id": 32,
+        "category_id": 7
+    },
+    {
+        "forum_id": 33,
+        "category_id": 7
+    },
+    {
+        "forum_id": 34,
+        "category_id": 7
+    },
+    {
+        "forum_id": 35,
+        "category_id": 7
+    },
+    {
+        "forum_id": 36,
+        "category_id": 8
+    },
+    {
+        "forum_id": 37,
+        "category_id": 8
+    },
+    {
+        "forum_id": 38,
+        "category_id": 8
+    },
+    {
+        "forum_id": 39,
+        "category_id": 8
+    },
+    {
+        "forum_id": 40,
+        "category_id": 8
+    },
+    {
+        "forum_id": 41,
+        "category_id": 9
+    },
+    {
+        "forum_id": 42,
+        "category_id": 9
+    },
+    {
+        "forum_id": 43,
+        "category_id": 9
+    },
+    {
+        "forum_id": 44,
+        "category_id": 9
+    },
+    {
+        "forum_id": 45,
+        "category_id": 9
+    },
+    {
+        "forum_id": 46,
+        "category_id": 10
+    },
+    {
+        "forum_id": 47,
+        "category_id": 10
+    },
+    {
+        "forum_id": 48,
+        "category_id": 10
+    },
+    {
+        "forum_id": 49,
+        "category_id": 10
+    },
+    {
+        "forum_id": 50,
+        "category_id": 10
+    }
+
+]

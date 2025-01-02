@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "user_id": 1,
+        "discussion_id": 1,
+        "file_path": "uploads/files/document1.pdf",
+        "upload_date": "2024-12-22 10:00:00"
+    },
+    {
+        "id": 2,
+        "user_id": 2,
+        "discussion_id": 2,
+        "file_path": "uploads/files/image1.jpg",
+        "upload_date": "2024-12-22 10:30:00"
+    },
+    {
+        "id": 3,
+        "user_id": 3,
+        "discussion_id": 3,
+        "file_path": "uploads/files/report1.docx",
+        "upload_date": "2024-12-22 11:00:00"
+    },
+    {
+        "id": 4,
+        "user_id": 4,
+        "discussion_id": 4,
+        "file_path": "uploads/files/audio1.mp3",
+        "upload_date": "2024-12-22 11:30:00"
+    },
+    {
+        "id": 5,
+        "user_id": 5,
+        "discussion_id": 5,
+        "file_path": "uploads/files/video1.mp4",
+        "upload_date": "2024-12-22 12:00:00"
+    },
+    {
+        "id": 6,
+        "user_id": 6,
+        "discussion_id": 6,
+        "file_path": "uploads/files/presentation1.pptx",
+        "upload_date": "2024-12-22 12:30:00"
+    },
+    {
+        "id": 7,
+        "user_id": 7,
+        "discussion_id": 7,
+        "file_path": "uploads/files/spreadsheet1.xlsx",
+        "upload_date": "2024-12-22 13:00:00"
+    },
+    {
+        "id": 8,
+        "user_id": 8,
+        "discussion_id": 8,
+        "file_path": "uploads/files/text1.txt",
+        "upload_date": "2024-12-22 13:30:00"
+    },
+    {
+        "id": 9,
+        "user_id": 9,
+        "discussion_id": 9,
+        "file_path": "uploads/files/image2.png",
+        "upload_date": "2024-12-22 14:00:00"
+    },
+    {
+        "id": 10,
+        "user_id": 1,
+        "discussion_id": 10,
+        "file_path": "uploads/files/document2.pdf",
+        "upload_date": "2024-12-22 14:30:00"
+    }
+]

@@ -15,11 +15,13 @@ class RoleForumSeeder extends Seeder
      */
     public function run()
     {
-        // JSON dosyasını Storage diskinden okuma
-        $json = Storage::get("Seeders/role_forum.json");
-        $roleForums = json_decode($json,true);
+
+        $jsonPath = database_path('data/role_forum.json');
+        $prioritiesJson = file_get_contents($jsonPath);
+        // JSON verisini çözümleyin, diziler olarak almak için ikinci parametreyi true yapın
+        $decodedData = json_decode($prioritiesJson,true);
 
         // Veriyi pivot tablosuna ekleme (role_forum tablosu)
-        DB::table('role_forum')->insert($roleForums);
+        DB::table('role_forum')->insert($decodedData);
     }
 }

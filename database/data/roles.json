@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "role_name": "Yönetici"
+    },
+    {
+        "id": 2,
+        "role_name": "Moderatör"
+    },
+    {
+        "id": 3,
+        "role_name": "Üye"
+    }
+]

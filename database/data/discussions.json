@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "title": "Yeni Başlayanlar için Sohbet",
+        "slug": "yeni-baslayanlar-icin-sohbet",
+        "content": "Genel sohbet için bir başlangıç noktası.",
+        "created_date": "2024-12-22 12:00:00",
+        "user_id": 1,
+        "forum_id": 1
+    },
+    {
+        "id": 2,
+        "title": "Yapay Zeka Gelişmeleri",
+        "slug": "yapay-zeka-gelismeleri",
+        "content": "Teknoloji dünyasından güncel yapay zeka haberleri.",
+        "created_date": "2024-12-22 12:05:00",
+        "user_id": 2,
+        "forum_id": 6
+    },
+    {
+        "id": 3,
+        "title": "En Sevilen Romanlar",
+        "slug": "en-sevilen-romanlar",
+        "content": "Okuma listenize ekleyebileceğiniz harika roman önerileri.",
+        "created_date": "2024-12-22 12:10:00",
+        "user_id": 3,
+        "forum_id": 13
+    },
+    {
+        "id": 4,
+        "title": "Evde Sağlıklı Kalmak",
+        "slug": "evde-saglikli-kalmak",
+        "content": "Egzersiz ve beslenme önerileri.",
+        "created_date": "2024-12-22 12:15:00",
+        "user_id": 4,
+        "forum_id": 16
+    },
+    {
+        "id": 5,
+        "title": "Sanatın İncelikleri",
+        "slug": "sanatin-incelikleri",
+        "content": "Sanat dünyasından ilginç bilgiler.",
+        "created_date": "2024-12-22 12:20:00",
+        "user_id": 5,
+        "forum_id": 21
+    },
+    {
+        "id": 6,
+        "title": "Yeni Çıkan Oyunlar",
+        "slug": "yeni-cikan-oyunlar",
+        "content": "Son zamanların en popüler oyunları.",
+        "created_date": "2024-12-22 12:25:00",
+        "user_id": 6,
+        "forum_id": 26
+    },
+    {
+        "id": 7,
+        "title": "Evrenin Sırları",
+        "slug": "evrenin-sirlari",
+        "content": "Bilim ve astronomiye dair keşifler.",
+        "created_date": "2024-12-22 12:30:00",
+        "user_id": 7,
+        "forum_id": 31
+    },
+    {
+        "id": 8,
+        "title": "Bilinmeyen Tatil Rotaları",
+        "slug": "bilinmeyen-tatil-rotalari",
+        "content": "Keşfedilmeyi bekleyen destinasyonlar.",
+        "created_date": "2024-12-22 12:35:00",
+        "user_id": 8,
+        "forum_id": 37
+    },
+    {
+        "id": 9,
+        "title": "Film Önerileri",
+        "slug": "film-onerileri",
+        "content": "İzlemek isteyebileceğiniz harika filmler.",
+        "created_date": "2024-12-22 12:40:00",
+        "user_id": 9,
+        "forum_id": 41
+    },
+    {
+        "id": 10,
+        "title": "Kariyer Planlama İpuçları",
+        "slug": "kariyer-planlama-ipuclari",
+        "content": "Kariyerinize yön verecek tavsiyeler.",
+        "created_date": "2024-12-22 12:45:00",
+        "user_id": 1,
+        "forum_id": 47
+    },
+    {
+        "id": 11,
+        "title": "Sohbet ve Eğlence",
+        "slug": "sohbet-ve-eglence",
+        "content": "Dostlarınızla paylaşabileceğiniz fikirler.",
+        "created_date": "2024-12-22 12:50:00",
+        "user_id": 2,
+        "forum_id": 2
+    },
+    {
+        "id": 12,
+        "title": "Yeni Teknolojik Trendler",
+        "slug": "yeni-teknolojik-trendler",
+        "content": "Son teknoloji haberleri.",
+        "created_date": "2024-12-22 12:55:00",
+        "user_id": 3,
+        "forum_id": 6
+    },
+    {
+        "id": 13,
+        "title": "Şiir Kitapları",
+        "slug": "siir-kitaplari",
+        "content": "Şairlerin büyüleyici dünyasına bir yolculuk.",
+        "created_date": "2024-12-22 13:00:00",
+        "user_id": 4,
+        "forum_id": 12
+    },
+    {
+        "id": 14,
+        "title": "Sağlıkla Yaşlanma",
+        "slug": "saglikla-yaslanma",
+        "content": "Yaşam boyu sağlık için öneriler.",
+        "created_date": "2024-12-22 13:05:00",
+        "user_id": 5,
+        "forum_id": 16
+    },
+    {
+        "id": 15,
+        "title": "Klasik Sanat Eserleri",
+        "slug": "klasik-sanat-eserleri",
+        "content": "Dünya sanat tarihinden seçmeler.",
+        "created_date": "2024-12-22 13:10:00",
+        "user_id": 6,
+        "forum_id": 24
+    },
+    {
+        "id": 16,
+        "title": "Popüler Konsol Oyunları",
+        "slug": "populer-konsol-oyunlari",
+        "content": "Konsollara özel oyun önerileri.",
+        "created_date": "2024-12-22 13:15:00",
+        "user_id": 7,
+        "forum_id": 28
+    },
+    {
+        "id": 17,
+        "title": "Yıldızların Hikayesi",
+        "slug": "yildizlarin-hikayesi",
+        "content": "Astronomiye dair masalsı bilgiler.",
+        "created_date": "2024-12-22 13:20:00",
+        "user_id": 8,
+        "forum_id": 32
+    },
+    {
+        "id": 18,
+        "title": "Bütçeyle Seyahat",
+        "slug": "butceyle-seyahat",
+        "content": "Uygun fiyatlı tatil önerileri.",
+        "created_date": "2024-12-22 13:25:00",
+        "user_id": 9,
+        "forum_id": 36
+    },
+    {
+        "id": 19,
+        "title": "En Sevilen Şarkılar",
+        "slug": "en-sevilen-sarkilar",
+        "content": "Çalma listelerinize ekleyebileceğiniz öneriler.",
+        "created_date": "2024-12-22 13:30:00",
+        "user_id": 1,
+        "forum_id": 43
+    },
+    {
+        "id": 20,
+        "title": "Online Eğitim Kaynakları",
+        "slug": "online-egitim-kaynaklari",
+        "content": "Eğitimde dijital araçlar.",
+        "created_date": "2024-12-22 13:35:00",
+        "user_id": 2,
+        "forum_id": 47
+    }
+]

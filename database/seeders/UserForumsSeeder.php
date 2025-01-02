@@ -14,11 +14,12 @@ class UserForumsSeeder extends Seeder
      */
     public function run(): void
     {
-        // JSON dosyasını Storage diskinden okuma
-        $json = Storage::get("Seeders/user_forums.json");
-        $UserForums= json_decode($json,true);
+        $jsonPath = database_path('data/user_forums.json');
+        $prioritiesJson = file_get_contents($jsonPath);
+        // JSON verisini çözümleyin, diziler olarak almak için ikinci parametreyi true yapın
+        $decodedData = json_decode($prioritiesJson,true);
 
         // Veriyi pivot tablosuna ekleme (role_forum tablosu)
-        DB::table('user_forums')->insert($UserForums);
+        DB::table('user_forums')->insert($decodedData);
     }
 }

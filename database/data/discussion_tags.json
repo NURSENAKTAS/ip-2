@@ -1,0 +1,177 @@
+[
+    {
+        "id": 1,
+        "discussion_id": 1,
+        "tag_id": 1
+    },
+    {
+        "id": 2,
+        "discussion_id": 1,
+        "tag_id": 3
+    },
+    {
+        "id": 3,
+        "discussion_id": 2,
+        "tag_id": 1
+    },
+    {
+        "id": 4,
+        "discussion_id": 2,
+        "tag_id": 2
+    },
+    {
+        "id": 5,
+        "discussion_id": 3,
+        "tag_id": 3
+    },
+    {
+        "id": 6,
+        "discussion_id": 3,
+        "tag_id": 17
+    },
+    {
+        "id": 7,
+        "discussion_id": 4,
+        "tag_id": 4
+    },
+    {
+        "id": 8,
+        "discussion_id": 4,
+        "tag_id": 12
+    },
+    {
+        "id": 9,
+        "discussion_id": 5,
+        "tag_id": 7
+    },
+    {
+        "id": 10,
+        "discussion_id": 5,
+        "tag_id": 15
+    },
+    {
+        "id": 11,
+        "discussion_id": 6,
+        "tag_id": 8
+    },
+    {
+        "id": 12,
+        "discussion_id": 7,
+        "tag_id": 6
+    },
+    {
+        "id": 13,
+        "discussion_id": 7,
+        "tag_id": 11
+    },
+    {
+        "id": 14,
+        "discussion_id": 8,
+        "tag_id": 5
+    },
+    {
+        "id": 15,
+        "discussion_id": 8,
+        "tag_id": 19
+    },
+    {
+        "id": 16,
+        "discussion_id": 9,
+        "tag_id": 9
+    },
+    {
+        "id": 17,
+        "discussion_id": 10,
+        "tag_id": 13
+    },
+    {
+        "id": 18,
+        "discussion_id": 11,
+        "tag_id": 1
+    },
+    {
+        "id": 19,
+        "discussion_id": 11,
+        "tag_id": 7
+    },
+    {
+        "id": 20,
+        "discussion_id": 12,
+        "tag_id": 1
+    },
+    {
+        "id": 21,
+        "discussion_id": 12,
+        "tag_id": 16
+    },
+    {
+        "id": 22,
+        "discussion_id": 13,
+        "tag_id": 3
+    },
+    {
+        "id": 23,
+        "discussion_id": 13,
+        "tag_id": 17
+    },
+    {
+        "id": 24,
+        "discussion_id": 14,
+        "tag_id": 4
+    },
+    {
+        "id": 25,
+        "discussion_id": 15,
+        "tag_id": 7
+    },
+    {
+        "id": 26,
+        "discussion_id": 15,
+        "tag_id": 15
+    },
+    {
+        "id": 27,
+        "discussion_id": 16,
+        "tag_id": 8
+    },
+    {
+        "id": 28,
+        "discussion_id": 16,
+        "tag_id": 16
+    },
+    {
+        "id": 29,
+        "discussion_id": 17,
+        "tag_id": 6
+    },
+    {
+        "id": 30,
+        "discussion_id": 17,
+        "tag_id": 11
+    },
+    {
+        "id": 31,
+        "discussion_id": 18,
+        "tag_id": 5
+    },
+    {
+        "id": 32,
+        "discussion_id": 18,
+        "tag_id": 20
+    },
+    {
+        "id": 33,
+        "discussion_id": 19,
+        "tag_id": 10
+    },
+    {
+        "id": 34,
+        "discussion_id": 20,
+        "tag_id": 13
+    },
+    {
+        "id": 35,
+        "discussion_id": 20,
+        "tag_id": 14
+    }
+]

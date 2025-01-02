@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "setting_key": "tema",
+        "setting_value": "karanlık",
+        "forum_id": 1
+    },
+    {
+        "id": 2,
+        "setting_key": "bildirimler",
+        "setting_value": "açık",
+        "forum_id": 2
+    },
+    {
+        "id": 3,
+        "setting_key": "sayfa_başına_gönderi",
+        "setting_value": "10",
+        "forum_id": 3
+    },
+    {
+        "id": 4,
+        "setting_key": "moderasyon",
+        "setting_value": "katı",
+        "forum_id": 4
+    },
+    {
+        "id": 5,
+        "setting_key": "dil",
+        "setting_value": "Türkçe",
+        "forum_id": 5
+    },
+    {
+        "id": 6,
+        "setting_key": "saat_dilimi",
+        "setting_value": "UTC",
+        "forum_id": 6
+    },
+    {
+        "id": 7,
+        "setting_key": "profil_görünürlüğü",
+        "setting_value": "gizli",
+        "forum_id": 7
+    },
+    {
+        "id": 8,
+        "setting_key": "reklamlar",
+        "setting_value": "kapalı",
+        "forum_id": 8
+    },
+    {
+        "id": 9,
+        "setting_key": "otomatik_arşiv",
+        "setting_value": "30_gün",
+        "forum_id": 9
+    },
+    {
+        "id": 10,
+        "setting_key": "varsayılan_görünüm",
+        "setting_value": "liste",
+        "forum_id": 10
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "report_reason": "Hakaret içeren bir yorum",
+        "report_date": "2024-12-22 10:00:00",
+        "user_id": 1,
+        "comment_id": 1,
+        "discussion_id": 1
+    },
+    {
+        "report_reason": "Spam içerik",
+        "report_date": "2024-12-22 10:15:00",
+        "user_id": 2,
+        "comment_id": 2,
+        "discussion_id": 2
+    },
+    {
+        "report_reason": "Yanıltıcı bilgi",
+        "report_date": "2024-12-22 10:30:00",
+        "user_id": 3,
+        "comment_id": 3,
+        "discussion_id": 3
+    },
+    {
+        "report_reason": "Müstehcen içerik",
+        "report_date": "2024-12-22 10:45:00",
+        "user_id": 4,
+        "comment_id": 4,
+        "discussion_id": 4
+    },
+    {
+        "report_reason": null,
+        "report_date": "2024-12-22 11:00:00",
+        "user_id": 5,
+        "comment_id": 5,
+        "discussion_id": 5
+    },
+    {
+        "report_reason": "Hakaret ve saldırgan dil kullanımı",
+        "report_date": "2024-12-22 11:15:00",
+        "user_id": 6,
+        "comment_id": 6,
+        "discussion_id": 6
+    },
+    {
+        "report_reason": "Yasaklı ürün tanıtımı",
+        "report_date": "2024-12-22 11:30:00",
+        "user_id": 7,
+        "comment_id": 7,
+        "discussion_id": 7
+    },
+    {
+        "report_reason": null,
+        "report_date": "2024-12-22 11:45:00",
+        "user_id": 8,
+        "comment_id": 8,
+        "discussion_id": 8
+    },
+    {
+        "report_reason": "Kişisel bilgiler ifşa edilmiş",
+        "report_date": "2024-12-22 12:00:00",
+        "user_id": 9,
+        "comment_id": 9,
+        "discussion_id": 9
+    },
+    {
+        "report_reason": "Telif ihlali içeren içerik",
+        "report_date": "2024-12-22 12:15:00",
+        "user_id": 8,
+        "comment_id": 10,
+        "discussion_id": 10
+    }
+]

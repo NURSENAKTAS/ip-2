@@ -14,10 +14,12 @@ class ForumCategoriesSeeder extends Seeder
      */
     public function run(): void
     {
-        $json = Storage::get("Seeders/forum_categories.json");
-        $ForumCategories = json_decode($json,true);
+        $jsonPath = database_path('data/forum_categories.json');
+        $prioritiesJson = file_get_contents($jsonPath);
+        // JSON verisini çözümleyin, diziler olarak almak için ikinci parametreyi true yapın
+        $decodedData = json_decode($prioritiesJson,true);
 
         // Veriyi pivot tablosuna ekleme (role_forum tablosu)
-        DB::table('forum_categories')->insert($ForumCategories);
+        DB::table('forum_categories')->insert($decodedData);
     }
 }

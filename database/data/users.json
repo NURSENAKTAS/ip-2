@@ -1,0 +1,110 @@
+[
+    {
+        "user_name": "yusuf_ozkan",
+        "email": "yusuf.ozkan@example.com",
+        "email_verified": "2024-01-15 08:25:30",
+        "password": "$2y$10$K6gJt6g5y/Zyq8ZcvpzCkOcOwTLyfhgpn8CxeHgYZmTUt5ZpQlqZi",
+        "join_date": "2024-01-15 08:25:30",
+        "is_active": true,
+        "bio": "Yazılım geliştirici ve teknoloji meraklısı.",
+        "avatar_url": "https://randomuser.me/api/portraits/men/1.jpg",
+        "location": "İstanbul",
+        "website": "https://yusufozkan.dev"
+    },
+    {
+        "user_name": "nazli_tuncer",
+        "email": "nazli.tuncer@example.com",
+        "email_verified": "2024-02-10 11:12:22",
+        "password": "$2y$10$5YfW9Rx7w8KdZnDPl8zTiEd6/JHl52kHShZbdJKz3jZy.A9XShZaG",
+        "join_date": "2024-02-10 11:12:22",
+        "is_active": true,
+        "bio": "Veri bilimci, istatistiksel analizlere tutkuluyum.",
+        "avatar_url": "https://randomuser.me/api/portraits/women/2.jpg",
+        "location": "Ankara",
+        "website": "https://nazlituncer.com"
+    },
+    {
+        "user_name": "serkan_kilic",
+        "email": "serkan.kilic@example.com",
+        "email_verified": "2024-03-01 09:15:45",
+        "password": "$2y$10$7Jzq0ZGkCvZnKt7Jt3Q6tGiBThqP.sjVvO4tvzXU9gb2sAgK1uF3a",
+        "join_date": "2024-03-01 09:15:45",
+        "is_active": true,
+        "bio": "Web tasarımcı, yaratıcı projelerle ilgileniyorum.",
+        "avatar_url": "https://randomuser.me/api/portraits/men/3.jpg",
+        "location": "İzmir",
+        "website": null
+    },
+    {
+        "user_name": "buse_gokce",
+        "email": "buse.gokce@example.com",
+        "email_verified": "2024-04-15 13:05:22",
+        "password": "$2y$10$YfWs7zF5YbdqWhJXXXgu0XiZpKqs3k1uV7pABGyFMhA67Hi1P8sVi",
+        "join_date": "2024-04-15 13:05:22",
+        "is_active": true,
+        "bio": "Psikolog ve kişisel gelişim uzmanıyım.",
+        "avatar_url": "https://randomuser.me/api/portraits/women/4.jpg",
+        "location": "Bursa",
+        "website": "https://busegokce.com"
+    },
+    {
+        "user_name": "emre_balkan",
+        "email": "emre.balkan@example.com",
+        "email_verified": "2024-05-22 16:45:30",
+        "password": "$2y$10$Q7XMbVq5WqNw3.1XkXrGb5dfF5b7QY4wV8vAqPzFzQ6gbj90uvTaK",
+        "join_date": "2024-05-22 16:45:30",
+        "is_active": true,
+        "bio": "Mobil uygulama geliştiricisi.",
+        "avatar_url": "https://randomuser.me/api/portraits/men/5.jpg",
+        "location": "Adana",
+        "website": null
+    },
+    {
+        "user_name": "selin_durmaz",
+        "email": "selin.durmaz@example.com",
+        "email_verified": "2024-06-10 18:30:55",
+        "password": "$2y$10$VseH2Ftwdu03Llg3xK1V2H.p5x9.bV5yA2OlgHZ1NEpNN29sV1haO",
+        "join_date": "2024-06-10 18:30:55",
+        "is_active": true,
+        "bio": "Grafik tasarımcıyım, sanata ve tasarıma ilgim var.",
+        "avatar_url": "https://randomuser.me/api/portraits/women/6.jpg",
+        "location": "İstanbul",
+        "website": "https://selindurmaz.com"
+    },
+    {
+        "user_name": "fatih_sen",
+        "email": "fatih.sen@example.com",
+        "email_verified": "2024-07-03 14:25:30",
+        "password": "$2y$10$2DQTKdRfbGTIS0XrrA.9o5Z26N5uXvYoJ6EjYZF0dkHLR/mcwDBam",
+        "join_date": "2024-07-03 14:25:30",
+        "is_active": true,
+        "bio": "Yazılım mühendisiyim, özellikle yapay zeka alanında çalışıyorum.",
+        "avatar_url": "https://randomuser.me/api/portraits/men/7.jpg",
+        "location": "Bursa",
+        "website": "https://fatihsen.dev"
+    },
+    {
+        "user_name": "özlem_guler",
+        "email": "ozlem.guler@example.com",
+        "email_verified": "2024-08-15 17:40:20",
+        "password": "$2y$10$V6N5l5PjF6NJHuK/5yUgB1N8vFT7mb8POfKr0J96gOnIuR5tb0EqS",
+        "join_date": "2024-08-15 17:40:20",
+        "is_active": true,
+        "bio": "İçerik yazarı, SEO uzmanıyım.",
+        "avatar_url": "https://randomuser.me/api/portraits/women/8.jpg",
+        "location": "Antalya",
+        "website": null
+    },
+    {
+        "user_name": "ahmet_yilmaz",
+        "email": "ahmet.yilmaz@example.com",
+        "email_verified": "2024-09-12 11:22:45",
+        "password": "$2y$10$D1aNi1Lttjkl9zMmrGGQ1mE3pZTt5hS0XbLo6gZEdZ4fZpugJTKZm",
+        "join_date": "2024-09-12 11:22:45",
+        "is_active": true,
+        "bio": "Front-end geliştiricisi, HTML, CSS, JavaScript ile projeler yapıyorum.",
+        "avatar_url": "https://randomuser.me/api/portraits/men/9.jpg",
+        "location": "Eskişehir",
+        "website": "https://ahmetyilmaz.dev"
+    }
+]

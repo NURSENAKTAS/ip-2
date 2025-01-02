@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "user_id": 1,
+        "discussion_id": 1,
+        "comment_text": "Bu çok ilginç bir konu, gerçekten üzerine konuşulması gerek!"
+    },
+    {
+        "id": 2,
+        "user_id": 2,
+        "discussion_id": 2,
+        "comment_text": "Bence bu başlık gerçekten anlamlı, tartışılmalı."
+    },
+    {
+        "id": 3,
+        "user_id": 3,
+        "discussion_id": 3,
+        "comment_text": "Bu konuda çok fazla farklı görüş var."
+    },
+    {
+        "id": 4,
+        "user_id": 4,
+        "discussion_id": 4,
+        "comment_text": "Kesinlikle katılıyorum, özellikle şu noktada haklısınız."
+    },
+    {
+        "id": 5,
+        "user_id": 5,
+        "discussion_id": 5,
+        "comment_text": "Bence tartışmanın bu kısmı eksik, biraz daha detaylandırılmalı."
+    },
+    {
+        "id": 6,
+        "user_id": 6,
+        "discussion_id": 6,
+        "comment_text": "Çok iyi bir bakış açısı, gerçekten harika bir açıklama!"
+    },
+    {
+        "id": 7,
+        "user_id": 7,
+        "discussion_id": 7,
+        "comment_text": "Evet, biraz daha araştırma yapılması gerek."
+    },
+    {
+        "id": 8,
+        "user_id": 8,
+        "discussion_id": 8,
+        "comment_text": "Benim görüşüm farklı, biraz daha objektif olmak lazım."
+    },
+    {
+        "id": 9,
+        "user_id": 9,
+        "discussion_id": 9,
+        "comment_text": "İlginç bir bakış açısı, ama biraz daha örnekle desteklenebilir."
+    },
+    {
+        "id": 10,
+        "user_id": 1,
+        "discussion_id": 10,
+        "comment_text": "Bu konuda fikirlerim tamamen değişti, harika bir tartışma!"
+    }
+]

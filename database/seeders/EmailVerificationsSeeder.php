@@ -24,14 +24,16 @@ class EmailVerificationsSeeder extends Seeder
             //dd(EmailVerifications::all());
         }
     }
-    private function getJson(string $filename):array
+    private function getJson(string $filename): array
     {
-        $json =Storage::get("Seeders/".$filename.".json");
-        $decodedData = json_decode($json);
-        if(json_last_error() !== JSON_ERROR_NONE)
-        {
+        $jsonPath = database_path('data/'.$filename.'.json');
+        $prioritiesJson = file_get_contents($jsonPath);
+        // JSON verisini çözümleyin, diziler olarak almak için ikinci parametreyi true yapın
+        $decodedData = json_decode($prioritiesJson);
+        if(json_last_error() !== JSON_ERROR_NONE) {
             throw new FileNotFoundException($filename);
         }
         return $decodedData;
+
     }
 }

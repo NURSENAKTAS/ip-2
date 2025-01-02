@@ -1,0 +1,252 @@
+[
+    {
+        "id": 1,
+        "forum_name": "Yeni Başlayanlar İçin Sohbet",
+        "description": "Yeni katılanlar kendilerini tanıtsın!"
+    },
+    {
+        "id": 2,
+        "forum_name": "Günlük Sohbetler",
+        "description": "Bugün neler yaptınız?"
+    },
+    {
+        "id": 3,
+        "forum_name": "Popüler Kültür",
+        "description": "Son çıkan film ve diziler hakkında sohbet edelim."
+    },
+    {
+        "id": 4,
+        "forum_name": "Bugün Nasılsınız?",
+        "description": "Günlük ruh halinizi paylaşın."
+    },
+    {
+        "id": 5,
+        "forum_name": "Sosyal Medya",
+        "description": "En sevdiğiniz sosyal medya platformu nedir?"
+    },
+    {
+        "id": 6,
+        "forum_name": "Yapay Zeka ve Gelecek",
+        "description": "Yapay zeka dünyayı nasıl değiştirecek?"
+    },
+    {
+        "id": 7,
+        "forum_name": "Makine Öğrenimi",
+        "description": "Makine öğrenimi algoritmalarına dair sohbet."
+    },
+    {
+        "id": 8,
+        "forum_name": "Veri Bilimi",
+        "description": "Veri biliminde en çok kullanılan araçlar."
+    },
+    {
+        "id": 9,
+        "forum_name": "Yapay Zeka Uygulamaları",
+        "description": "Yapay zekayı günlük hayatımıza nasıl entegre edebiliriz?"
+    },
+    {
+        "id": 10,
+        "forum_name": "Yapay Zeka Etikleri",
+        "description": "Yapay zeka kullanımındaki etik sorunlar."
+    },
+    {
+        "id": 11,
+        "forum_name": "Klasik Edebiyat",
+        "description": "Klasik edebiyatın önemi ve özellikleri."
+    },
+    {
+        "id": 12,
+        "forum_name": "Şiir Dünyası",
+        "description": "Şiir okumayı sevenler buraya!"
+    },
+    {
+        "id": 13,
+        "forum_name": "Roman Türünde En İyi Eserler",
+        "description": "En çok etkilendiğiniz romanlar hangileri?"
+    },
+    {
+        "id": 14,
+        "forum_name": "Yazarların İlham Kaynakları",
+        "description": "Yazarların eserlerinde ilham aldıkları kaynaklar."
+    },
+    {
+        "id": 15,
+        "forum_name": "Dünya Edebiyatının En Önemli Yazarları",
+        "description": "Dünya çapında kabul görmüş yazarlar ve eserleri."
+    },
+    {
+        "id": 16,
+        "forum_name": "Sağlıklı Yaşam",
+        "description": "Daha sağlıklı bir yaşam için neler yemeliyiz?"
+    },
+    {
+        "id": 17,
+        "forum_name": "Egzersiz Rutini",
+        "description": "Sağlıklı bir vücut için en iyi egzersizler."
+    },
+    {
+        "id": 18,
+        "forum_name": "Zihinsel Sağlık",
+        "description": "Zihinsel sağlığı nasıl koruruz?"
+    },
+    {
+        "id": 19,
+        "forum_name": "Vegan Diyeti",
+        "description": "Vegan diyetinin sağlık üzerine etkileri."
+    },
+    {
+        "id": 20,
+        "forum_name": "Daha Fazla Su İçmenin Yararları",
+        "description": "Su içmenin vücut üzerindeki faydaları."
+    },
+    {
+        "id": 21,
+        "forum_name": "Sanat ve Tasarım",
+        "description": "Sanatın gücü ve tasarım dünyası."
+    },
+    {
+        "id": 22,
+        "forum_name": "Sanatçıların İlham Kaynakları",
+        "description": "Sanatçılar neye ilham alıyor?"
+    },
+    {
+        "id": 23,
+        "forum_name": "Dijital Sanat",
+        "description": "Dijital sanatın evrimi ve örnekler."
+    },
+    {
+        "id": 24,
+        "forum_name": "Sanat ve Toplum",
+        "description": "Sanatın toplumsal etkileri."
+    },
+    {
+        "id": 25,
+        "forum_name": "Sergiler ve Etkinlikler",
+        "description": "Gelecek sergiler ve sanat etkinlikleri hakkında sohbet."
+    },
+    {
+        "id": 26,
+        "forum_name": "Oyunlar Hakkında Her Şey",
+        "description": "En yeni oyunlar ve oyun dünyası hakkında sohbet."
+    },
+    {
+        "id": 27,
+        "forum_name": "Favori Oyun Türleri",
+        "description": "En sevdiğiniz oyun türü nedir?"
+    },
+    {
+        "id": 28,
+        "forum_name": "Video Oyunları Tarihi",
+        "description": "Video oyunlarının tarihsel gelişimi."
+    },
+    {
+        "id": 29,
+        "forum_name": "Mobil Oyunlar",
+        "description": "Mobil oyunların geleceği ve popüler oyunlar."
+    },
+    {
+        "id": 30,
+        "forum_name": "Oyun İndirimleri",
+        "description": "Oyunlardaki büyük indirimleri ve fırsatları paylaşın."
+    },
+    {
+        "id": 31,
+        "forum_name": "Evrenin Gizemleri",
+        "description": "Evrenin derinliklerine inelim!"
+    },
+    {
+        "id": 32,
+        "forum_name": "Astronomi Keşifleri",
+        "description": "Son astronomi keşifleri hakkında tartışmalar."
+    },
+    {
+        "id": 33,
+        "forum_name": "Astronomi ve Teknoloji",
+        "description": "Astronomi ile teknoloji arasındaki ilişki."
+    },
+    {
+        "id": 34,
+        "forum_name": "Mars'a Seyahat",
+        "description": "Mars'a yapılacak seyahate dair hayaller."
+    },
+    {
+        "id": 35,
+        "forum_name": "Kara Delikler",
+        "description": "Kara delikler ve evrenin en gizemli fenomenleri."
+    },
+    {
+        "id": 36,
+        "forum_name": "Yolculuk Hazırlığı",
+        "description": "Seyahat hazırlığı ve ipuçları."
+    },
+    {
+        "id": 37,
+        "forum_name": "Gezilecek Yerler",
+        "description": "Farklı kültürleri keşfetmeye ne dersiniz?"
+    },
+    {
+        "id": 38,
+        "forum_name": "Seyahat Fotoğrafçılığı",
+        "description": "Seyahat ederken en güzel fotoğrafları çekme önerileri."
+    },
+    {
+        "id": 39,
+        "forum_name": "Dünya Turu",
+        "description": "Hayalinizdeki dünya turunu planlayın."
+    },
+    {
+        "id": 40,
+        "forum_name": "Seyahat Etiketi",
+        "description": "Seyahat ederken dikkat edilmesi gereken etik kurallar."
+    },
+    {
+        "id": 41,
+        "forum_name": "Film ve Dizi İncelemeleri",
+        "description": "Yeni çıkan film ve dizileri inceleyelim."
+    },
+    {
+        "id": 42,
+        "forum_name": "Sinema Klasikleri",
+        "description": "Sinema tarihinin en büyük başyapıtları."
+    },
+    {
+        "id": 43,
+        "forum_name": "En Sevdiğiniz Müzik Türü",
+        "description": "En sevdiğiniz müzik türü nedir?"
+    },
+    {
+        "id": 44,
+        "forum_name": "Müzik ve Sinema",
+        "description": "Müzik ve sinemanın buluştuğu anlar."
+    },
+    {
+        "id": 45,
+        "forum_name": "Film Karakterleri ve Derinlik",
+        "description": "Sinema karakterlerinin psikolojik analizleri."
+    },
+    {
+        "id": 46,
+        "forum_name": "Eğitimde Yenilikler",
+        "description": "Eğitimde teknolojinin kullanımı ve yeni trendler."
+    },
+    {
+        "id": 47,
+        "forum_name": "Kariyer Planlaması",
+        "description": "İyi bir kariyer için nasıl bir yol haritası izlenmeli?"
+    },
+    {
+        "id": 48,
+        "forum_name": "Lise ve Üniversite Arasındaki Farklar",
+        "description": "Lise ve üniversite arasındaki geçiş ve farklar."
+    },
+    {
+        "id": 49,
+        "forum_name": "Eğitimde Edebiyat",
+        "description": "Edebiyatı eğitimde nasıl daha etkili kullanabiliriz?"
+    },
+    {
+        "id": 50,
+        "forum_name": "İş Görüşmeleri",
+        "description": "Başarılı bir iş görüşmesi nasıl yapılır"
+    }
+]

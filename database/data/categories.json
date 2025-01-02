@@ -1,0 +1,61 @@
+[
+    {
+        "id": 1,
+        "category_name": "Genel Sohbet",
+        "category_icon":"\uD83D\uDDE3\uFE0F"
+    },
+    {
+        "id": 2,
+        "category_name": "Teknoloji ve İnternet",
+        "category_icon":"\uD83D\uDCBB"
+
+    },
+    {
+        "id": 3,
+        "category_name": "Kitaplar ve Edebiyat",
+        "category_icon":"\uD83D\uDCDA"
+
+    },
+    {
+        "id": 4,
+        "category_name": "Sağlık ve Fitness",
+        "category_icon":"\uD83D\uDCAA"
+
+    },
+    {
+        "id": 5,
+        "category_name": "Sanat ve Kültür",
+        "category_icon":"\uD83C\uDFA8"
+
+    },
+    {
+        "id": 6,
+        "category_name": "Oyunlar ve Eğlence",
+        "category_icon":"\uD83C\uDFAE"
+
+    },
+    {
+        "id": 7,
+        "category_name": "Bilim ve Astronomi",
+        "category_icon":"\uD83D\uDD2D"
+
+    },
+    {
+        "id": 8,
+        "category_name": "Seyahat ve Keşif",
+        "category_icon":"✈\uFE0F"
+
+    },
+    {
+        "id": 9,
+        "category_name": "Müzik ve Film",
+        "category_icon":"\uD83C\uDFB6"
+
+    },
+    {
+        "id": 10,
+        "category_name": "Eğitim ve Kariyer",
+        "category_icon":"\uD83C\uDF93"
+
+    }
+]
